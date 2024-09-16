@@ -1,3 +1,5 @@
+
+```mermaid
 classDiagram
     class Fibonacci {
         - int varUsuario
@@ -7,3 +9,4 @@ classDiagram
         + Fibonacci(int varUsuario)
         + calcularSequencia() void
     }
+```
